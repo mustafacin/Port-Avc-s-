@@ -1,5 +1,5 @@
 # Port-Avcisi
-<body
+<body>
 Otomotize Olarak Nmap Port Taraması Yapan Bash Scripti.
 
 Bu scripti kullanarak nmap port taramasını otomotize şekilde kolaylıkla yapabilirsiniz.
