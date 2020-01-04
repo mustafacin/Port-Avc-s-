@@ -24,5 +24,7 @@ Bu scripti kullanarak nmap port taramasını otomotize şekilde kolaylıkla yapa
 <h2>KULLANIMI</h2>
 
 
-./port_avcisi.sh veya bash port_avcisi.sh
+./port_avcisi.sh 
+veya 
+bash port_avcisi.sh
 
