@@ -23,6 +23,13 @@ Bu scripti kullanarak nmap port taramasını otomotize şekilde kolaylıkla yapa
 
 İsteğe bağlı olarak taramanıza rapor oluşturabilirsiniz.
 
+
+<h2> İNDİRME </h2>
+
+wget "https://raw.githubusercontent.com/mustafacin/Port-Avcisi/master/port_avcisi.sh"
+
+chmod +x port_avcisi.sh
+
 <h2>KULLANIMI</h2>
 
 
