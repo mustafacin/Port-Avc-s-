@@ -1,6 +1,6 @@
 # Port-Avcisi
 <body>
-Otomotize Olarak Nmap Port Taraması Yapan Bash Scripti.
+Otomotize Olarak Nmap Port Taraması Yapan Bash Script.
 
 Bu scripti kullanarak nmap port taramasını otomotize şekilde kolaylıkla yapabilirsiniz.
 
@@ -27,7 +27,10 @@ Bu scripti kullanarak nmap port taramasını otomotize şekilde kolaylıkla yapa
 
 
 ./port_avcisi.sh 
-veya 
+
+veya
+
 bash port_avcisi.sh
 
 </body>
+
