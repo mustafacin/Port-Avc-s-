@@ -26,18 +26,18 @@ Bu scripti kullanarak nmap port taramasını otomotize şekilde kolaylıkla yapa
 
 <h2> İNDİRME </h2>
 
-wget "https://raw.githubusercontent.com/mustafacin/Port-Avcisi/master/port_avcisi.sh"
+<b>#wget "https://raw.githubusercontent.com/mustafacin/Port-Avcisi/master/port_avcisi.sh"</b>
 
-chmod +x port_avcisi.sh
+<b>#chmod +x port_avcisi.sh</b>
 
 <h2>KULLANIMI</h2>
 
 
-./port_avcisi.sh 
+<b>#./port_avcisi.sh </b>
 
 veya
 
-bash port_avcisi.sh
+<b>#bash port_avcisi.sh </b>
 
 </body>
 
