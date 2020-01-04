@@ -10,6 +10,7 @@ Bu scripti kullanarak nmap port taramasını otomotize şekilde kolaylıkla yapa
 <h2>SEÇENEKLER</h2>
 
 1-Tüm Portların Taraması
+
 2-TCP ve Versiyon Bilgisi
 3-UDP ve Versiyon Bilgisi
 4-Hızlı Tarama
