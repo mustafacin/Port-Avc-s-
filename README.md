@@ -5,7 +5,7 @@ Bu scripti kullanarak nmap port taramasını otomotize şekilde kolaylıkla yapa
 
 
 
-<h1>SEÇENEKLER</h1>
+<h2>SEÇENEKLER</h2>
 
 1-Tüm Portların Taraması
 2-TCP ve Versiyon Bilgisi
@@ -21,7 +21,7 @@ Bu scripti kullanarak nmap port taramasını otomotize şekilde kolaylıkla yapa
 
 İsteğe bağlı olarak taramanıza rapor oluşturabilirsiniz.
 
-KULLANIMI
+<h2>KULLANIMI</h2>
 
 
 ./port_avcisi.sh veya bash port_avcisi.sh
